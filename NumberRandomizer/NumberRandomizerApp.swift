@@ -10,8 +10,11 @@ import SwiftUI
 @main
 struct NumberRandomizerApp: App {
     var body: some Scene {
-        WindowGroup {
+        Window("SingleWindow", id: "main") {
             ContentView()
         }
     }
 }
+
+
+

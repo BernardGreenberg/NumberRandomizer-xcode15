@@ -1,8 +1,9 @@
 import SwiftUI
 
 struct ContentView: View {
+   
   @State private var randomNum: Int?
-  
+       
   var body: some View {
     VStack {
       Text(randomNum != nil ? "\(randomNum!)" : "?")
@@ -21,5 +22,5 @@ struct ContentView: View {
 }
 
 #Preview {
-  ContentView()
+    ContentView()
 }
