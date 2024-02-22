@@ -21,6 +21,26 @@
         }
       }
     },
+    "Edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "edit menu item" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Menu Test Item"
+          }
+        }
+      }
+    },
     "Generate Random Number" : {
       "localizations" : {
         "en" : {
@@ -33,6 +53,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "生成随机数字"
+          }
+        }
+      }
+    },
+    "MyApp Help" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GRN Help"
           }
         }
       }
