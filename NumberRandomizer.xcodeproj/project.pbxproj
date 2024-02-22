@@ -22,6 +22,7 @@
 		068511002B5ADEEC009B2488 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		068511022B5ADEEC009B2488 /* NumberRandomizer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NumberRandomizer.entitlements; sourceTree = "<group>"; };
 		0685110C2B5B32C4009B2488 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		5BABF8B32B87E3B3006D8550 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		068510F82B5ADEE9009B2488 /* NumberRandomizer */ = {
 			isa = PBXGroup;
 			children = (
+				5BABF8B32B87E3B3006D8550 /* AppDelegate.swift */,
 				068510F92B5ADEE9009B2488 /* NumberRandomizerApp.swift */,
 				068510FB2B5ADEE9009B2488 /* ContentView.swift */,
 				0685110C2B5B32C4009B2488 /* Localizable.xcstrings */,

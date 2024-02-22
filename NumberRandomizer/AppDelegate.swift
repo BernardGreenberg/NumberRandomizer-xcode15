@@ -16,7 +16,7 @@ in the App structure, really does add this AppKit cliché to the SwiftUI app, an
 allows multiple windows, fwiw.
 */
 
-/*  Seehttps://stackoverflow.com/questions/65743619/close-swiftui-application-when-last-window-is-closed */
+/*  See https://stackoverflow.com/questions/65743619/close-swiftui-application-when-last-window-is-closed */
 
 class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
